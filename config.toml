@@ -116,7 +116,7 @@ disqusShortname = ""
       title = "Yoga app prototype"
       subtitle = "Design concept for an app which was intended to be a yoga pose reference, where a user could shuffle throught poses and run a timer during a yoga session."
       image = "yoga_app.jpg"
-      url = "blogs/boilerplate" 
+      url = "blogs/yoga" 
 
     [[params.tiles.showcase]]
       title = "Biblio Santo NIV"
