@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "http://example.org/"
+baseURL = "https://ctalladen78.github.io/"
 languageCode = "en-us"
 title = "Cyrus Talladen"
 theme = "forty"
@@ -89,9 +89,15 @@ disqusShortname = ""
     # Display your showcases here.
 
     [[params.tiles.showcase]]
+      title = "Example"
+      subtitle = "Executive brief for a crypto miner company"
+      image = "pic07.jpg"
+      url = "blogs/example" 
+
+    [[params.tiles.showcase]]
       title = "Crypto miner brochure"
       subtitle = "Executive brief for a crypto miner company"
-      image = "pic03.jpg"
+      image = "powercoin-onepager.png"
       url = "blogs/boilerplate" 
 
     [[params.tiles.showcase]]
@@ -115,7 +121,7 @@ disqusShortname = ""
     [[params.tiles.showcase]]
       title = "Biblio Santo NIV"
       subtitle = "Static site made with Cordova and PouchDB"
-      image = "pic02.jpg"
+      image = "bible-app-cover.png"
       url = "https://ctalladen78.github.io/bible-search-app/"
 
     [[params.tiles.showcase]]
