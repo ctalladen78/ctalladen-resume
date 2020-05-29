@@ -3,8 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://ctalladen78.github.io/blogs/crypto/</loc>
+    <lastmod>2020-05-25T18:40:44+07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ctalladen78.github.io/</loc>
-    <lastmod>2020-05-25T15:52:24+07:00</lastmod>
+    <lastmod>2020-05-25T18:40:44+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ctalladen78.github.io/blogs/yoga/</loc>
+    <lastmod>2020-05-25T18:28:42+07:00</lastmod>
   </url>
   
   <url>
@@ -18,7 +28,32 @@
   </url>
   
   <url>
+    <loc>https://ctalladen78.github.io/blogs/flutter_app/</loc>
+    <lastmod>2017-10-31T22:42:51-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ctalladen78.github.io/blogs/fortnite/</loc>
+    <lastmod>2017-10-31T22:42:51-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ctalladen78.github.io/blogs/boilerplate/</loc>
+    <lastmod>2017-10-31T22:42:51-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ctalladen78.github.io/blogs/payment/</loc>
+    <lastmod>2017-10-31T22:42:51-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ctalladen78.github.io/blogs/stack/</loc>
+    <lastmod>2017-10-31T22:42:51-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ctalladen78.github.io/blogs/auth_api/</loc>
     <lastmod>2017-10-31T22:42:51-05:00</lastmod>
   </url>
   

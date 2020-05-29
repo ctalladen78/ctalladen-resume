@@ -1,0 +1,17 @@
+{{ "<!-- Contact -->" | safeHTML}}
+    <section id="contact">
+        <div class="inner">
+            <section>
+                <!-- <form method="post" action="https://mailchimp.com/{{ .Site.Params.Contact.formEmail }}"> -->
+                <form method="post" action="#">
+                    <div class="field">
+                        <label for="email">Email</label>
+                        <input type="text" name="email" id="email" />
+                    </div>
+                    <div class="actions">
+                        <input type="submit" value="{{ .Site.Params.Contact.buttonSend }}" class="special" /></input>
+                    </div>
+                </form>
+            </section>
+        </div>
+    </section>

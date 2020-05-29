@@ -22,4 +22,9 @@
                 <li><a href="{{ .url | absURL}}" class="button fit">{{ .name }}</a></li>
             {{ end }}
         </ul>
+    <ul>
+
+    {{ "<!-- Email -->" | safeHTML}}
+        {{ partial "email.html" . }}
+    </ul>
     </nav>
