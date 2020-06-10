@@ -2,7 +2,7 @@
 title: "Fortnite radar app"
 description: "Mobile payment for food trucks and farmers market"
 slug: "fortnite"
-image: pic10.jpg
+# image: pic10.jpg
 keywords: 
     - "payment"
     - "mobile payment"
@@ -15,6 +15,4 @@ draft: false
 
 {{< img title="" src="/img/fortnite.jpg" >}}
 
-Run the code at dartpad.dartlang.org
-
-https://gist.github.com/ctalladen78/869b643017bacfde064acac32f33fd13
+Run the code at https://dartpad.dartlang.org/869b643017bacfde064acac32f33fd13
